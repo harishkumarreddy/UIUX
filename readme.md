@@ -14,19 +14,29 @@
 
 # TAGS:
 1. Docktype:
-    <!DOCTYPE html>
+```
+<!DOCTYPE html>
+```
 
 2. Document Definer
-    <html lang="en"> </html>
+```
+<html lang="en"> </html>
+```
 
 3. Head 
-    <head> </head>
+```
+<head> </head>
+```
 
 4. Body
-    <body> </body>
+```
+<body> </body>
+```
 
 5. Title
-    <title>Welcome to my Home page</title>
+```
+<title>Welcome to my Home page</title>
+```
 
 6. Headings:
     1. H1
