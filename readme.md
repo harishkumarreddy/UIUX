@@ -94,7 +94,7 @@
 ```
 13. super
 ```
-    X<super>2</super>
+    X<sup>2</sup>
 ```
 
 14. hr
